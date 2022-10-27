@@ -1,0 +1,47 @@
+head{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    margin: 100px;
+    padding: 7px 5px;
+}
+.form{
+    margin: 4px 5px;
+}
+.row{
+    background-color: darkolivegreen;
+    border-radius: 30px;
+    box-shadow: rgb(61, 75, 36);
+}
+img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.col-7{
+    padding: 8px 8px;
+}
+.h1{
+    margin: 23px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.h5{
+    margin: 26px;
+    font-style: italic;
+}
+.form-row1{
+margin: 5px;
+padding: 6px;
+}
+
+.button{
+height: 50px;
+width: 100%;
+background-color: black;
+color: white;
+border-radius: 6px;
+font-weight: bold;
+}
+
+
